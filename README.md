@@ -1,11 +1,10 @@
 # Movies-Library - Project Version
 
-**Author Name**: ahmad jamal khater
+**Author Name**: ahmad khater
 
 ## WRRC
 
 ![image of WRRC](./assets/WRRC.jpg)
-
 ![database WRRC](./assets/WRRCDB.jpg)
 
 ![database WRRC](./assets/wrrcDB2.jpg)
