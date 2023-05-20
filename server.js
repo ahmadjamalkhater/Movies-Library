@@ -1,5 +1,5 @@
 
-const data = require('./Movie Data/data.json');
+const data = require('./data.json');
 
 const express = require('express');
 
